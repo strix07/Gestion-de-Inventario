@@ -1,0 +1,16 @@
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100px;
+}
+
+.imgcon {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+.centrar {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
