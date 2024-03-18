@@ -1,4 +1,4 @@
-# Gestor de Almacén y ventas
+# Gestor de Almacén y Ventas
 
 ---
 
